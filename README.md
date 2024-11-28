@@ -1,20 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sunita Shakuniya</h1>
+<h3 align="center">A apiring Software developer from India</h3>
 
-<!--
-**Sunita-Shakuniya/Sunita-Shakuniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **AI_Agent**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Flask, Django**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [link](link)
 
+- 📝 I regularly solving DSA question [link](link)
+
+- 💬 Ask me about **rect**
+
+- 📫 How to reach me **shakuniyasunita6@gmail.com**
+
+- 📄 Know about my experiences [link](link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sunitashakuniya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sunitashakuniya/" height="30" width="40" /></a>
