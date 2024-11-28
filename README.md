@@ -16,7 +16,7 @@
 - 📄 Know about my experiences [link](link)
 <h3 align="left">Projects:</h3>
 ##
-<img align="right" height="150" src="https://img-b.udemycdn.com/course/750x422/3407178_5bd8_3.jpg"/> 
+<img align="centre" height="150" src="https://img-b.udemycdn.com/course/750x422/3407178_5bd8_3.jpg"/> 
 ##
 <h3 align="left">Connect with me:</h3>
 <p align="left">
