@@ -16,7 +16,31 @@
 - 📄 Know about my experiences [link](link)
 <h3 align="left">Projects:</h3>
 
-<img align="centre" height="150" src="https://img-b.udemycdn.com/course/750x422/3407178_5bd8_3.jpg"/> 
+<div align="center">
+    <div>
+        <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
+            <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-28%20233301.png?raw=true" alt="Visualization Tool" height="150">
+        </a>
+        <h4>Interactive Data Visualization Tool</h4>
+        <p>Built using Django to create dynamic, user-interactive data dashboards.</p>
+    </div>
+    <br>
+    <div>
+        <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
+            <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Untitled%20design%20(1).png?raw=true" alt="E-Commerce App" height="150">
+        </a>
+        <h4>E-Commerce Product Comparison App</h4>
+        <p>React.js application comparing products across multiple platforms using public APIs.</p>
+    </div>
+    <br>
+    <div>
+        <a href="https://github.com/yourusername/event-organization" target="_blank">
+            <img src="https://via.placeholder.com/750x422" alt="Event Organization" height="150">
+        </a>
+        <h4>Event Organization E-Commerce Website</h4>
+        <p>Platform for booking event decorations, services, and customizations.</p>
+    </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
