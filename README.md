@@ -19,7 +19,7 @@
 <div align="center">
     <div>
         <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
-            <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-28%20233301.png?raw=true" alt="Visualization Tool" height="150">
+            <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-28%20233301.png?raw=true" alt="Visualization Tool" width="50%">
         </a>
         <h4>Interactive Data Visualization Tool</h4>
         <p>Built using Django to create dynamic, user-interactive data dashboards.</p>
@@ -27,18 +27,26 @@
     <br>
     <div>
         <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
-            <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Untitled%20design%20(1).png?raw=true" alt="E-Commerce App" height="150">
+            <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Untitled%20design%20(1).png?raw=true" alt="E-Commerce App" width="50%">
         </a>
         <h4>E-Commerce Product Comparison App</h4>
         <p>React.js application comparing products across multiple platforms using public APIs.</p>
     </div>
     <br>
     <div>
-        <a href="https://github.com/yourusername/event-organization" target="_blank">
-            <img src="https://via.placeholder.com/750x422" alt="Event Organization" height="150">
+        <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">
+            <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20001113.png?raw=true" alt="Event Organization" width="50%">
         </a>
-        <h4>Event Organization E-Commerce Website</h4>
-        <p>Platform for booking event decorations, services, and customizations.</p>
+        <h4>OCR and Translation Tool with Audio Conversion </h4>
+        <p>Flask-based tool allows users to upload images, extract text, translate, and convert the translated text into speech. </p>
+    </div>
+    <br>
+    <div>
+        <a href="https://github.com/Sunita-Shakuniya/DesignSphere" target="_blank">
+            <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20002022.png?raw=true" alt="Event Organization" width="50%">
+        </a>
+        <h4>Interior Design Website</h4>
+        <p>Basic portfolio Website HTML/CSS and JavaScript </p>
     </div>
 </div>
 
