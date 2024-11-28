@@ -15,9 +15,9 @@
 
 - 📄 Know about my experiences [link](link)
 <h3 align="left">Projects:</h3>
-##
+
 <img align="centre" height="150" src="https://img-b.udemycdn.com/course/750x422/3407178_5bd8_3.jpg"/> 
-##
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sunitashakuniya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sunitashakuniya/" height="30" width="40" /></a>
