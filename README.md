@@ -19,17 +19,21 @@
 
 <div align="center">
 
-  <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
-    <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-28%20233301.png?raw=true" alt="Visualization Tool" width="45%" height = "20%">
-  </a>
-  <h4>Interactive Data Visualization Tool</h4>
-  <p>Built using Django to create dynamic, user-interactive data dashboards.</p>
+  <div style="display:inline-block; text-align: center; width: 45%; margin: 10px;">
+    <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
+      <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-28%20233301.png?raw=true" alt="Visualization Tool" width="100%">
+    </a>
+    <h4>Interactive Data Visualization Tool</h4>
+    <p>Built using Django to create dynamic, user-interactive data dashboards.</p>
+  </div>
 
-  <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
-    <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Untitled%20design%20(1).png?raw=true" alt="E-Commerce App" width="45%" height = "20%">
-  </a>
-  <h4>E-Commerce Product Comparison App</h4>
-  <p>React.js application comparing products across multiple platforms using public APIs.</p>
+  <div style="display:inline-block; text-align: center; width: 45%; margin: 10px;">
+    <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
+      <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Untitled%20design%20(1).png?raw=true" alt="E-Commerce App" width="100%">
+    </a>
+    <h4>E-Commerce Product Comparison App</h4>
+    <p>React.js application comparing products across multiple platforms using public APIs.</p>
+  </div>
 
   <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20001113.png?raw=true" alt="OCR Tool" width="45%" height = "20%">
