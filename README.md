@@ -29,10 +29,10 @@
       </a>
     </td>
     <td width= "55%" height = "50" >
-      <h4>Interactive Data Visualization Tool</h4>
+      <h4><strong>Title:</strong> Interactive Data Visualization Tool</h4>
       <p><strong>Languages:</strong> Python, JavaScript, HTML/CSS</p>
       <p><strong>Tools:</strong> Django, Plotly,Pandas and Numpy </p>
-      <p>Built using Django to create dynamic, user-interactive data dashboards.</p>
+      <p><strong>Description:</strong> Built using Django to create dynamic, user-interactive data dashboards.</p>
     </td>
   </tr>
 </table>
@@ -45,10 +45,10 @@
   </a>
     </td>
     <td width= "55%" height = "25%">         
-  <h4>E-Commerce Product Comparison App</h4>
+  <h4><strong>Title:</strong> E-Commerce Product Comparison App</h4>
   <p><strong>Languages:</strong> JavaScript, HTML/CSS, tailwind css</p>
   <p><strong>Tools:</strong> React, Firebase, Razorpay</p>    
-  <p>React.js application comparing products across multiple platforms using public APIs.</p>
+  <p><strong>Description:</strong> React.js application comparing products across multiple platforms using public APIs.</p>
     </td>
   </tr>
 </table>
@@ -61,10 +61,10 @@
   </a>
     </td>
     <td width= "55%" height = "40">         
-   <h4>OCR and Translation Tool with Audio Conversion</h4>
+   <h4><strong>Title:</strong> OCR and Translation Tool with Audio Conversion</h4>
    <p><strong>Languages:</strong> Python</p>
    <p><strong>Tools:</strong> Flask, Google Translate API, gTTS</p>
-  <p>Flask-based tool allows users to upload images, extract text, translate, and convert the translated text into speech.</p>
+  <p><strong>Description:</strong> Flask-based tool allows users to upload images, extract text, translate, and convert the translated text into speech.</p>
     </td>
   </tr>
 </table>
@@ -77,10 +77,10 @@
         </a>
     </td>
     <td width= "55%" height = "40">         
-    <h4>Interior Design Website</h4>
+    <h4><strong>Title:</strong> Interior Design Website</h4>
     <p><strong>Languages:</strong> HTML, CSS, JavaScript</p>
     <p><strong>Tools:</strong> Bootstrap</p>  
-    <p>Basic portfolio Website HTML/CSS and JavaScript</p>
+    <p><strong>Description:</strong> Basic portfolio Website HTML/CSS and JavaScript</p>
     </td>
   </tr>
 </table>
