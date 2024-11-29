@@ -57,7 +57,7 @@
   <tr>
     <td width= "45%" height = "40" align="center" >
        <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">
-    <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20001113.png?raw=true" alt="OCR Tool" width="90%" >
+    <img src=https://github.com/Sunita-Shakuniya/data/blob/main/P%20(2).png?raw=true" alt="OCR Tool" width="90%" >
   </a>
     </td>
   </tr>
@@ -70,21 +70,6 @@
   </tr>
 </table>
 
-<table width="90%" height = "15%">
-  <tr>
-    <td width= "45%" height = "40" align="center" >
-        <a href="https://github.com/Sunita-Shakuniya/DesignSphere" target="_blank">
-        <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20002022.png?raw=true" alt="Interior Design Website" width="90%" >
-        </a>
-    </td>
-    </tr><tr>
-    <td width= "55%" >         
-    <h4><strong>• Title:</strong> Interior Design Website</h4> 
-    <p><strong>• Description:</strong> Basic portfolio Website HTML/CSS and JavaScript</p>
-    <p><strong>• View Project Code:</strong> <a href="https://github.com/Sunita-Shakuniya/DesignSphere" target="_blank">Click Here</a></p>  
-    </td>
-  </tr>
-</table>
 
 </div>
 <h3 align="left">Connect with me:</h3>
