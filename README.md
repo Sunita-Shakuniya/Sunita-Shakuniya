@@ -25,7 +25,7 @@
   <tr>
     <td width= "45%" height = "50">
       <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
-        <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-28%20233301.png?raw=true" alt="Visualization Tool" width="90%" height="50">
+        <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-28%20233301.png?raw=true" alt="Visualization Tool" width="90%" >
       </a>
     </td>
     <td width= "55%" height = "50">
@@ -39,7 +39,7 @@
   <tr>
     <td width= "45%" height = "50">
        <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
-    <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Untitled%20design%20(1).png?raw=true" alt="E-Commerce App" width="90%" height="50">
+    <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Untitled%20design%20(1).png?raw=true" alt="E-Commerce App" width="90%">
   </a>
     </td>
     <td width= "55%" height = "50">         
