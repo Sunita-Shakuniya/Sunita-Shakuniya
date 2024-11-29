@@ -1,18 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sunita Shakuniya</h1>
-<h3 align="center">A apiring Software developer from India</h3>
-<img align="right" width= "20%" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-50.gif?raw=true"/>
 
-- 🔭 I’m currently working on  **AI_Agent** (SerpApi, chatGPT Api, Flask)
+## Leetcode:
+<img align="centre" width= "20%" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-50.gif?raw=true"/>
 
-- 🌱 I’m currently learning **Flask, Django**
 
-- 👨‍💻 All of my projects are available bellow
-
-- 📝 I regularly solving DSA question.
-
-- 💬 Ask me about **rect**
-
-- 📫 How to reach me **shakuniyasunita6@gmail.com**
 
 
 ## Projects:
@@ -69,8 +59,6 @@
     </td>
   </tr>
 </table>
-
-
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
