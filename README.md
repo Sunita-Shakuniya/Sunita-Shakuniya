@@ -21,7 +21,7 @@
 
 <div align="center">
 
-  <table width="70%" >
+  <table width="70%" height = "40">
   <tr>
     <td width= "45%" height = "50" align="center" >
       <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
@@ -49,7 +49,7 @@
   </tr>
 </table>
 
-<table width="80%">
+<table width="80%" height = "40">
   <tr>
     <td width= "45%" height = "40">
        <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">
@@ -63,16 +63,16 @@
   </tr>
 </table>
 
-<table width="80%">
+<table width="80%" height = "40">
   <tr>
     <td width= "45%" height = "40">
         <a href="https://github.com/Sunita-Shakuniya/DesignSphere" target="_blank">
-    <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20002022.png?raw=true" alt="Interior Design Website" width="45%">
-  </a>
+        <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20002022.png?raw=true" alt="Interior Design Website" width="45%">
+        </a>
     </td>
     <td width= "55%" height = "40">         
     <h4>Interior Design Website</h4>
-  <p>Basic portfolio Website HTML/CSS and JavaScript</p>
+    <p>Basic portfolio Website HTML/CSS and JavaScript</p>
     </td>
   </tr>
 </table>
