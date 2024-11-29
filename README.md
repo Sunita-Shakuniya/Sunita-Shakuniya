@@ -53,7 +53,7 @@
   <tr>
     <td width= "45%" height = "40">
        <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">
-    <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20001113.png?raw=true" alt="OCR Tool" width="45%">
+    <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20001113.png?raw=true" alt="OCR Tool" width="90%">
   </a>
     </td>
     <td width= "55%" height = "40">         
@@ -67,7 +67,7 @@
   <tr>
     <td width= "45%" height = "40">
         <a href="https://github.com/Sunita-Shakuniya/DesignSphere" target="_blank">
-        <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20002022.png?raw=true" alt="Interior Design Website" width="45%">
+        <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20002022.png?raw=true" alt="Interior Design Website" width="90%">
         </a>
     </td>
     <td width= "55%" height = "40">         
