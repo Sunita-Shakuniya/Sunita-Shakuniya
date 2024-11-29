@@ -28,10 +28,8 @@
     </td>
   </tr>
     <tr>
-    <td width= "55%" height = "300" >
+    <td width= "55%"  >
       <h4><strong>• Title:</strong> Interactive Data Visualization Tool</h4>
-      <p><strong>• Languages:</strong> Python, JavaScript, HTML/CSS</p>
-      <p><strong>• Tools:</strong> Django, Plotly,Pandas and Numpy </p>
       <p><strong>• Description:</strong> Built using Django to create dynamic, user-interactive data dashboards.</p>
       <p><strong>• View Project Code:</strong> <a href = "https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">Click Here</a></p>  
     </td>
@@ -45,10 +43,8 @@
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Untitled%20design%20(1).png?raw=true" alt="E-Commerce App" width="90%" >
   </a>
     </td>
-    <td width= "55%" height = "25%">         
-  <h4><strong>• Title:</strong> E-Commerce Product Comparison App</h4>
-  <p><strong>• Languages:</strong> JavaScript, HTML/CSS, tailwind css</p>
-  <p><strong>• Tools:</strong> React, Firebase, Razorpay</p>    
+    <td width= "55%">         
+  <h4><strong>• Title:</strong> E-Commerce Product Comparison App</h4>   
   <p><strong>• Description:</strong> React.js application comparing products across multiple platforms using public APIs.</p>
       <p><strong>• View Project Code:</strong> <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">Click Here</a></p>  
     </td>
@@ -62,11 +58,9 @@
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20001113.png?raw=true" alt="OCR Tool" width="90%" >
   </a>
     </td>
-    <td width= "55%" height = "40">         
+    <td width= "55%" >         
    <h4><strong>• Title:</strong> OCR and Translation Tool with Audio Conversion</h4>
    <p><strong>• Languages:</strong> Python</p>
-   <p><strong>• Tools:</strong> Flask, Google Translate API, gTTS</p>
-  <p><strong>• Description:</strong> Flask-based tool allows users to upload images, extract text, translate, and convert the translated text into speech.</p>
    <p><strong>• View Project Code:</strong> <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">Click Here</a></p>     
     </td>
   </tr>
@@ -79,10 +73,8 @@
         <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20002022.png?raw=true" alt="Interior Design Website" width="90%" >
         </a>
     </td>
-    <td width= "55%" height = "40">         
-    <h4><strong>• Title:</strong> Interior Design Website</h4>
-    <p><strong>• Languages:</strong> HTML, CSS, JavaScript</p>
-    <p><strong>• Tools:</strong> Bootstrap</p>  
+    <td width= "55%" >         
+    <h4><strong>• Title:</strong> Interior Design Website</h4> 
     <p><strong>• Description:</strong> Basic portfolio Website HTML/CSS and JavaScript</p>
     <p><strong>• View Project Code:</strong> <a href="https://github.com/Sunita-Shakuniya/DesignSphere" target="_blank">Click Here</a></p>  
     </td>
