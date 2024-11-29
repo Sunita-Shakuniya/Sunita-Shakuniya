@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sunita Shakuniya</h1>
 <h3 align="center">A apiring Software developer from India</h3>
 
-- 🔭 I’m currently working on **AI_Agent**
+- 🔭 I’m currently working on <p> <a href = "https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank"><strong>AI_Agent</strong></a></p>  
 
 - 🌱 I’m currently learning **Flask, Django**
 
-- 👨‍💻 All of my projects are available at [link]
+- 👨‍💻 All of my projects are available bellow
 
-- 📝 I regularly solving DSA question [https://leetcode.com/u/shakuniyasunita6/]
+- 📝 I regularly solving DSA question.
 
 - 💬 Ask me about **rect**
 
