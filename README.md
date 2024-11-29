@@ -21,28 +21,28 @@
 
 <div align="center">
 
-  <table width="80%" height="25%">
+  <table width="80%" >
   <tr>
-    <td>
+    <td width= "45%" height = "50">
       <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
         <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-28%20233301.png?raw=true" alt="Visualization Tool" width="300">
       </a>
     </td>
-    <td>
+    <td width= "55%" height = "50">
       <h4>Interactive Data Visualization Tool</h4>
       <p>Built using Django to create dynamic, user-interactive data dashboards.</p>
     </td>
   </tr>
 </table>
 
-<table width="80%" height="25%">
+<table width="80%">
   <tr>
-    <td>
+    <td width= "45%" height = "50">
        <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Untitled%20design%20(1).png?raw=true" alt="E-Commerce App" width="45%">
   </a>
     </td>
-    <td>         
+    <td width= "55%" height = "50">         
   <h4>E-Commerce Product Comparison App</h4>
   <p>React.js application comparing products across multiple platforms using public APIs.</p>
     </td>
