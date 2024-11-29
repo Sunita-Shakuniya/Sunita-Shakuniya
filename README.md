@@ -26,6 +26,8 @@
         <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-28%20233301.png?raw=true" alt="Visualization Tool" width="90%">
       </a>
     </td>
+  </tr>
+    <tr>
     <td width= "55%" height = "300" >
       <h4><strong>• Title:</strong> Interactive Data Visualization Tool</h4>
       <p><strong>• Languages:</strong> Python, JavaScript, HTML/CSS</p>
