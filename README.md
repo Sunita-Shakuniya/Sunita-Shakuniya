@@ -21,7 +21,7 @@
 
 <div align="center">
 
-  <table width="70%" height = "40">
+  <table width="70%" height = "25%">
   <tr>
     <td width= "45%" height = "50" align="center" >
       <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
@@ -42,14 +42,14 @@
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Untitled%20design%20(1).png?raw=true" alt="E-Commerce App" width="90%">
   </a>
     </td>
-    <td width= "55%" height = "40">         
+    <td width= "55%" height = "25%">         
   <h4>E-Commerce Product Comparison App</h4>
   <p>React.js application comparing products across multiple platforms using public APIs.</p>
     </td>
   </tr>
 </table>
 
-<table width="80%" height = "40">
+<table width="80%" height = "25%">
   <tr>
     <td width= "45%" height = "40">
        <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">
@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-<table width="80%" height = "40">
+<table width="80%" height = "25%">
   <tr>
     <td width= "45%" height = "40">
         <a href="https://github.com/Sunita-Shakuniya/DesignSphere" target="_blank">
