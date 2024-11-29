@@ -21,14 +21,14 @@
 
   <table width="40%" >
   <tr>
-    <td width= "45%" align="center" >
+    <td width= "40%" align="center" >
       <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
         <img src="https://github.com/Sunita-Shakuniya/data/blob/main/P.png?raw=true" alt="Visualization Tool"height="200" width="300">
       </a>
     </td>
   </tr>
     <tr>
-    <td width= "55%"  >
+    <td width= "50%"  >
       <h4><strong>• Title:</strong> Interactive Data Visualization Tool</h4>
       <p><strong>• Description:</strong> Built using Django to create dynamic, user-interactive data dashboards.</p>
       <p><strong>• View Project Code:</strong> <a href = "https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">Click Here</a></p>  
@@ -38,14 +38,14 @@
 
 <table width="40%">
   <tr>
-    <td width= "45%" align="center" >
+    <td width= "40%" align="center" >
        <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
         <img src="https://github.com/Sunita-Shakuniya/data/blob/main/P%20(1).png?raw=true" alt="E-Commerce App" height="200" width="300" >
       </a>
     </td>
   </tr>
   <tr>
-    <td width= "55%">         
+    <td width= "40%">         
       <h4><strong>• Title:</strong> E-Commerce Product Comparison App</h4>   
       <p><strong>• Description:</strong> React.js application comparing products across multiple platforms<br> using public APIs.</p>
       <p><strong>• View Project Code:</strong> <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">Click Here</a></p>  
@@ -55,14 +55,14 @@
 
 <table width="40%" >
   <tr>
-    <td width= "45%"align="center" >
+    <td width= "40%"align="center" >
        <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/P%20(2).png?raw=true" alt="OCR Tool" height="200" width="300"  >
   </a>
     </td>
   </tr>
   <tr>
-    <td width= "55%" >         
+    <td width= "40%" >         
    <h4><strong>• Title:</strong> OCR and Translation Tool with Audio Conversion</h4>
    <p><strong>• Description:</strong> Flask-based tool for text extraction via OCR, translation, and speech conversion (gTTS)</p>
    <p><strong>• View Project Code:</strong> <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">Click Here</a></p>     
