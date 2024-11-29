@@ -35,18 +35,24 @@
   </tr>
 </table>
 
-  
-  <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
+  <table>
+  <tr>
+    <td>
+      <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Untitled%20design%20(1).png?raw=true" alt="E-Commerce App" width="45%">
   </a>
   <h4>E-Commerce Product Comparison App</h4>
   <p>React.js application comparing products across multiple platforms using public APIs.</p>
-
-  <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">
+    </td>
+    <td>
+      <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20001113.png?raw=true" alt="OCR Tool" width="45%">
   </a>
   <h4>OCR and Translation Tool with Audio Conversion</h4>
   <p>Flask-based tool allows users to upload images, extract text, translate, and convert the translated text into speech.</p>
+    </td>
+  </tr>
+</table>
 
   <a href="https://github.com/Sunita-Shakuniya/DesignSphere" target="_blank">
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20002022.png?raw=true" alt="Interior Design Website" width="45%">
