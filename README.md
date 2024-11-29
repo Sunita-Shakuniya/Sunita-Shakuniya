@@ -20,20 +20,20 @@
 ## Projects:
 
 <div align="center">
-<div align ="left">
+
   <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-28%20233301.png?raw=true" alt="Visualization Tool" width="45%">
   </a>
   <h4>Interactive Data Visualization Tool</h4>
   <p>Built using Django to create dynamic, user-interactive data dashboards.</p>
-</div>
-  <div slign = "right">
+
+  
   <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Untitled%20design%20(1).png?raw=true" alt="E-Commerce App" width="45%">
   </a>
   <h4>E-Commerce Product Comparison App</h4>
   <p>React.js application comparing products across multiple platforms using public APIs.</p>
-</div>
+
   <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20001113.png?raw=true" alt="OCR Tool" width="45%">
   </a>
