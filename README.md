@@ -30,7 +30,7 @@
     <tr>
     <td width= "50%"  >
       <h4><strong>• Title:</strong> Interactive Data Visualization Tool</h4>
-      <p><strong>• Description:</strong> Built using Django to create dynamic, user-interactive data dashboards.</p>
+      <p><strong>• Description:</strong> Built using Django to create dynamic, user-interactive<br> data dashboards.</p>
       <p><strong>• View Project Code:</strong> <a href = "https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">Click Here</a></p>  
     </td>
   </tr>
