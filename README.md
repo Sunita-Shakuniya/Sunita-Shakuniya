@@ -47,7 +47,7 @@
   <tr>
     <td width= "40%">         
       <h4><strong>• Title:</strong> E-Commerce Product Comparison App</h4>   
-      <p><strong>• Description:</strong> React.js application comparing products across multiple platforms<br> using public APIs.</p>
+      <p><strong>• Description:</strong> React.js application comparing products across multiple <br>platforms using public APIs.</p>
       <p><strong>• View Project Code:</strong> <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">Click Here</a></p>  
     </td>
   </tr>
@@ -64,7 +64,7 @@
   <tr>
     <td width= "40%" >         
    <h4><strong>• Title:</strong> OCR and Translation Tool with Audio Conversion</h4>
-   <p><strong>• Description:</strong> Flask-based tool for text extraction via OCR, translation, and speech conversion (gTTS)</p>
+   <p><strong>• Description:</strong> Flask-based tool for text extraction via OCR, translation,<br> and speech conversion (gTTS)</p>
    <p><strong>• View Project Code:</strong> <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">Click Here</a></p>     
     </td>
   </tr>
