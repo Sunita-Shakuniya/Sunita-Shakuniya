@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-<table width="80%" height = "25%">
+<table width="90%" height = "25%">
   <tr>
     <td width= "45%" height = "40" align="center" >
         <a href="https://github.com/Sunita-Shakuniya/DesignSphere" target="_blank">
