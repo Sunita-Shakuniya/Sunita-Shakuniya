@@ -12,6 +12,10 @@
 - 💬 Ask me about **rect**
 
 - 📫 How to reach me **shakuniyasunita6@gmail.com**
+###
+<img align="right" height= "150" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-50.gif?raw=true"/>
+
+###
 
 ## Projects:
 
