@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  <table width="50%" >
+  <table width="40%" >
   <tr>
     <td width= "45%" align="center" >
       <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-<table width="50%">
+<table width="40%">
   <tr>
     <td width= "45%" align="center" >
        <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
