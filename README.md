@@ -36,9 +36,9 @@
   </tr>
 </table>
 
-<table width="50%" height = "15%">
+<table width="50%">
   <tr>
-    <td width= "45%" height = "50" align="center" >
+    <td width= "45%" align="center" >
        <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/P%20(1).png?raw=true" alt="E-Commerce App" >
   </a>
