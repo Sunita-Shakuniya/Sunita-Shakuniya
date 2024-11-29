@@ -23,12 +23,12 @@
 
   <table width="80%" height = "300">
   <tr>
-    <td width= "45%" height = "50" align="center" >
+    <td width= "45%" height = "300" align="center" >
       <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
         <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-28%20233301.png?raw=true" alt="Visualization Tool" width="90%">
       </a>
     </td>
-    <td width= "55%" height = "50" >
+    <td width= "55%" height = "300" >
       <h4><strong>Title:</strong> Interactive Data Visualization Tool</h4>
       <p><strong>Languages:</strong> Python, JavaScript, HTML/CSS</p>
       <p><strong>Tools:</strong> Django, Plotly,Pandas and Numpy </p>
