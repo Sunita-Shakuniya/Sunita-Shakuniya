@@ -21,11 +21,19 @@
 
 <div align="center">
 
-  <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
-    <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-28%20233301.png?raw=true" alt="Visualization Tool" width="45%">
-  </a>
-  <h4>Interactive Data Visualization Tool</h4>
-  <p>Built using Django to create dynamic, user-interactive data dashboards.</p>
+  <table>
+  <tr>
+    <td>
+      <h4>Interactive Data Visualization Tool</h4>
+      <p>Built using Django to create dynamic, user-interactive data dashboards.</p>
+    </td>
+    <td>
+      <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
+        <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-28%20233301.png?raw=true" alt="Visualization Tool" width="300">
+      </a>
+    </td>
+  </tr>
+</table>
 
   
   <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
