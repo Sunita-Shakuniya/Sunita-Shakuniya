@@ -25,7 +25,7 @@
   <tr>
     <td width= "45%" align="center" >
       <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
-        <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-28%20233301.png?raw=true" alt="Visualization Tool" width="90%" height = "300">
+        <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-28%20233301.png?raw=true" alt="Visualization Tool" width="90%">
       </a>
     </td>
     <td width= "55%" height = "300" >
@@ -42,7 +42,7 @@
   <tr>
     <td width= "45%" height = "50" align="center" >
        <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
-    <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Untitled%20design%20(1).png?raw=true" alt="E-Commerce App" width="90%" height = "300">
+    <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Untitled%20design%20(1).png?raw=true" alt="E-Commerce App" width="90%" >
   </a>
     </td>
     <td width= "55%" height = "25%">         
@@ -59,7 +59,7 @@
   <tr>
     <td width= "45%" height = "40" align="center" >
        <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">
-    <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20001113.png?raw=true" alt="OCR Tool" width="90%" height = "300">
+    <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20001113.png?raw=true" alt="OCR Tool" width="90%" >
   </a>
     </td>
     <td width= "55%" height = "40">         
@@ -76,7 +76,7 @@
   <tr>
     <td width= "45%" height = "40" align="center" >
         <a href="https://github.com/Sunita-Shakuniya/DesignSphere" target="_blank">
-        <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20002022.png?raw=true" alt="Interior Design Website" width="90%" height = "300">
+        <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20002022.png?raw=true" alt="Interior Design Website" width="90%" >
         </a>
     </td>
     <td width= "55%" height = "40">         
