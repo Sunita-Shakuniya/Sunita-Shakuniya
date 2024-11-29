@@ -21,7 +21,7 @@
 
 <div align="center">
 
-  <table width="80%" height = "20%">
+  <table width="80%" height = "15%">
   <tr>
     <td width= "45%" height = "50" align="center" >
       <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
@@ -38,7 +38,7 @@
   </tr>
 </table>
 
-<table width="80%">
+<table width="80%" height = "15%">
   <tr>
     <td width= "45%" height = "50" align="center" >
        <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
@@ -55,7 +55,7 @@
   </tr>
 </table>
 
-<table width="80%" height = "25%">
+<table width="80%" height = "15%">
   <tr>
     <td width= "45%" height = "40" align="center" >
        <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">
@@ -72,7 +72,7 @@
   </tr>
 </table>
 
-<table width="90%" height = "25%">
+<table width="90%" height = "15%">
   <tr>
     <td width= "45%" height = "40" align="center" >
         <a href="https://github.com/Sunita-Shakuniya/DesignSphere" target="_blank">
