@@ -23,7 +23,7 @@
   <tr>
     <td width= "45%" align="center" >
       <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
-        <img src="https://github.com/Sunita-Shakuniya/data/blob/main/P.png?raw=true" alt="Visualization Tool" width="90%">
+        <img src="https://github.com/Sunita-Shakuniya/data/blob/main/P.png?raw=true" alt="Visualization Tool">
       </a>
     </td>
   </tr>
