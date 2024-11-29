@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Flask, Django**
 
-- 👨‍💻 All of my projects are available at [link](link)
+- 👨‍💻 All of my projects are available at [link]
 
-- 📝 I regularly solving DSA question [link](link)
+- 📝 I regularly solving DSA question [https://leetcode.com/u/shakuniyasunita6/]
 
 - 💬 Ask me about **rect**
 
