@@ -37,7 +37,7 @@
 
 <table width="80%">
   <tr>
-    <td width= "45%" height = "40">
+    <td width= "45%" height = "50" align="center" >
        <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Untitled%20design%20(1).png?raw=true" alt="E-Commerce App" width="90%">
   </a>
@@ -51,7 +51,7 @@
 
 <table width="80%" height = "25%">
   <tr>
-    <td width= "45%" height = "40">
+    <td width= "45%" height = "40" align="center" >
        <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20001113.png?raw=true" alt="OCR Tool" width="90%">
   </a>
@@ -65,7 +65,7 @@
 
 <table width="80%" height = "25%">
   <tr>
-    <td width= "45%" height = "40">
+    <td width= "45%" height = "40" align="center" >
         <a href="https://github.com/Sunita-Shakuniya/DesignSphere" target="_blank">
         <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20002022.png?raw=true" alt="Interior Design Website" width="90%">
         </a>
