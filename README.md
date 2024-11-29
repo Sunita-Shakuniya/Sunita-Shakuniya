@@ -42,6 +42,8 @@
        <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Untitled%20design%20(1).png?raw=true" alt="E-Commerce App" width="90%" >
   </a>
+      </tr>
+  <tr>
     </td>
     <td width= "55%">         
   <h4><strong>• Title:</strong> E-Commerce Product Comparison App</h4>   
@@ -58,6 +60,8 @@
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20001113.png?raw=true" alt="OCR Tool" width="90%" >
   </a>
     </td>
+  </tr>
+  <tr>
     <td width= "55%" >         
    <h4><strong>• Title:</strong> OCR and Translation Tool with Audio Conversion</h4>
    <p><strong>• Languages:</strong> Python</p>
@@ -73,6 +77,7 @@
         <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20002022.png?raw=true" alt="Interior Design Website" width="90%" >
         </a>
     </td>
+    </tr><tr>
     <td width= "55%" >         
     <h4><strong>• Title:</strong> Interior Design Website</h4> 
     <p><strong>• Description:</strong> Basic portfolio Website HTML/CSS and JavaScript</p>
