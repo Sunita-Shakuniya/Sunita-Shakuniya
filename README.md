@@ -21,7 +21,7 @@
 
 <div align="center">
 
-  <table width="70%" height = "25%">
+  <table width="80%" height = "25%">
   <tr>
     <td width= "45%" height = "50" align="center" >
       <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
