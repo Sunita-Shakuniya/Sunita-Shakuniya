@@ -1,6 +1,6 @@
 
-## Leetcode:
-<img align="centre" width= "20%" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-50.gif?raw=true"/>
+## Leetcode
+<img align="centre" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-50.gif?raw=true"/>
 
 
 
