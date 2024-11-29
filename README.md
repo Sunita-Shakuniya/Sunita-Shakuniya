@@ -23,7 +23,7 @@
   <tr>
     <td width= "45%" align="center" >
       <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
-        <img src="https://github.com/Sunita-Shakuniya/data/blob/main/P.png?raw=true" alt="Visualization Tool">
+        <img src="https://github.com/Sunita-Shakuniya/data/blob/main/P.png?raw=true" alt="Visualization Tool"height="200" width="300">
       </a>
     </td>
   </tr>
@@ -40,7 +40,7 @@
   <tr>
     <td width= "45%" align="center" >
        <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
-        <img src="https://github.com/Sunita-Shakuniya/data/blob/main/P%20(1).png?raw=true" alt="E-Commerce App" >
+        <img src="https://github.com/Sunita-Shakuniya/data/blob/main/P%20(1).png?raw=true" alt="E-Commerce App" height="200" width="300" >
       </a>
     </td>
   </tr>
