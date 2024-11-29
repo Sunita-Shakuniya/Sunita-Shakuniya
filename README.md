@@ -64,7 +64,7 @@
   <tr>
     <td width= "40%" >         
    <h4><strong>• Title:</strong> OCR and Translation Tool with Audio Conversion</h4>
-   <p><strong>• Description:</strong> Flask-based tool for text extraction via OCR, translation,<br> and speech conversion (gTTS)</p>
+   <p><strong>• Description:</strong> Flask-based tool for text extraction via OCR, translation, and speech conversion (gTTS)</p>
    <p><strong>• View Project Code:</strong> <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">Click Here</a></p>     
     </td>
   </tr>
