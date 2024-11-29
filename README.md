@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunita Shakuniya</h1>
 <h3 align="center">A apiring Software developer from India</h3>
 
-- 🔭 I’m currently working on <p> <a href = "https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank"><strong>AI_Agent</strong></a></p>  
+- 🔭 I’m currently working on  **AI_Agent** (SerpApi, chatGPT Api, Flask)
 
 - 🌱 I’m currently learning **Flask, Django**
 
@@ -12,8 +12,6 @@
 - 💬 Ask me about **rect**
 
 - 📫 How to reach me **shakuniyasunita6@gmail.com**
-
-- 📄 Know about my experiences [link](link)
 
 ## Projects:
 
@@ -29,11 +27,11 @@
       </a>
     </td>
     <td width= "55%" height = "300" >
-      <h4><strong>Title:</strong> Interactive Data Visualization Tool</h4>
-      <p><strong>Languages:</strong> Python, JavaScript, HTML/CSS</p>
-      <p><strong>Tools:</strong> Django, Plotly,Pandas and Numpy </p>
-      <p><strong>Description:</strong> Built using Django to create dynamic, user-interactive data dashboards.</p>
-      <p><strong>View Project Code:</strong> <a href = "https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">Click Here</a></p>  
+      <h4><strong>• Title:</strong> Interactive Data Visualization Tool</h4>
+      <p><strong>• Languages:</strong> Python, JavaScript, HTML/CSS</p>
+      <p><strong>• Tools:</strong> Django, Plotly,Pandas and Numpy </p>
+      <p><strong>• Description:</strong> Built using Django to create dynamic, user-interactive data dashboards.</p>
+      <p><strong>• View Project Code:</strong> <a href = "https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">Click Here</a></p>  
     </td>
   </tr>
 </table>
@@ -46,11 +44,11 @@
   </a>
     </td>
     <td width= "55%" height = "25%">         
-  <h4><strong>Title:</strong> E-Commerce Product Comparison App</h4>
-  <p><strong>Languages:</strong> JavaScript, HTML/CSS, tailwind css</p>
-  <p><strong>Tools:</strong> React, Firebase, Razorpay</p>    
-  <p><strong>Description:</strong> React.js application comparing products across multiple platforms using public APIs.</p>
-      <p><strong>View Project Code:</strong> <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">Click Here</a></p>  
+  <h4><strong>• Title:</strong> E-Commerce Product Comparison App</h4>
+  <p><strong>• Languages:</strong> JavaScript, HTML/CSS, tailwind css</p>
+  <p><strong>• Tools:</strong> React, Firebase, Razorpay</p>    
+  <p><strong>• Description:</strong> React.js application comparing products across multiple platforms using public APIs.</p>
+      <p><strong>• View Project Code:</strong> <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">Click Here</a></p>  
     </td>
   </tr>
 </table>
@@ -63,11 +61,11 @@
   </a>
     </td>
     <td width= "55%" height = "40">         
-   <h4><strong>Title:</strong> OCR and Translation Tool with Audio Conversion</h4>
-   <p><strong>Languages:</strong> Python</p>
-   <p><strong>Tools:</strong> Flask, Google Translate API, gTTS</p>
-  <p><strong>Description:</strong> Flask-based tool allows users to upload images, extract text, translate, and convert the translated text into speech.</p>
-   <p><strong>View Project Code:</strong> <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">Click Here</a></p>     
+   <h4><strong>• Title:</strong> OCR and Translation Tool with Audio Conversion</h4>
+   <p><strong>• Languages:</strong> Python</p>
+   <p><strong>• Tools:</strong> Flask, Google Translate API, gTTS</p>
+  <p><strong>• Description:</strong> Flask-based tool allows users to upload images, extract text, translate, and convert the translated text into speech.</p>
+   <p><strong>• View Project Code:</strong> <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">Click Here</a></p>     
     </td>
   </tr>
 </table>
@@ -80,11 +78,11 @@
         </a>
     </td>
     <td width= "55%" height = "40">         
-    <h4><strong>Title:</strong> Interior Design Website</h4>
-    <p><strong>Languages:</strong> HTML, CSS, JavaScript</p>
-    <p><strong>Tools:</strong> Bootstrap</p>  
-    <p><strong>Description:</strong> Basic portfolio Website HTML/CSS and JavaScript</p>
-    <p><strong>View Project Code:</strong> <a href="https://github.com/Sunita-Shakuniya/DesignSphere" target="_blank">Click Here</a></p>  
+    <h4><strong>• Title:</strong> Interior Design Website</h4>
+    <p><strong>• Languages:</strong> HTML, CSS, JavaScript</p>
+    <p><strong>• Tools:</strong> Bootstrap</p>  
+    <p><strong>• Description:</strong> Basic portfolio Website HTML/CSS and JavaScript</p>
+    <p><strong>• View Project Code:</strong> <a href="https://github.com/Sunita-Shakuniya/DesignSphere" target="_blank">Click Here</a></p>  
     </td>
   </tr>
 </table>
