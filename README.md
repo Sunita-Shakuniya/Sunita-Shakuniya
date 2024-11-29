@@ -33,6 +33,7 @@
       <p><strong>Languages:</strong> Python, JavaScript, HTML/CSS</p>
       <p><strong>Tools:</strong> Django, Plotly,Pandas and Numpy </p>
       <p><strong>Description:</strong> Built using Django to create dynamic, user-interactive data dashboards.</p>
+      <p><strong>View Project Code:</strong> <a href = "https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">Click Here</a></p>  
     </td>
   </tr>
 </table>
@@ -49,6 +50,7 @@
   <p><strong>Languages:</strong> JavaScript, HTML/CSS, tailwind css</p>
   <p><strong>Tools:</strong> React, Firebase, Razorpay</p>    
   <p><strong>Description:</strong> React.js application comparing products across multiple platforms using public APIs.</p>
+      <p><strong>View Project Code:</strong> <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">Click Here</a></p>  
     </td>
   </tr>
 </table>
@@ -65,6 +67,7 @@
    <p><strong>Languages:</strong> Python</p>
    <p><strong>Tools:</strong> Flask, Google Translate API, gTTS</p>
   <p><strong>Description:</strong> Flask-based tool allows users to upload images, extract text, translate, and convert the translated text into speech.</p>
+   <p><strong>View Project Code:</strong> <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">Click Here</a></p>     
     </td>
   </tr>
 </table>
@@ -81,6 +84,7 @@
     <p><strong>Languages:</strong> HTML, CSS, JavaScript</p>
     <p><strong>Tools:</strong> Bootstrap</p>  
     <p><strong>Description:</strong> Basic portfolio Website HTML/CSS and JavaScript</p>
+    <p><strong>View Project Code:</strong> <a href="https://github.com/Sunita-Shakuniya/DesignSphere" target="_blank">Click Here</a></p>  
     </td>
   </tr>
 </table>
