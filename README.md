@@ -21,7 +21,7 @@
 
 <div align="center">
 
-  <table>
+  <table width="80%" height="25%">
   <tr>
     <td>
       <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
@@ -35,7 +35,7 @@
   </tr>
 </table>
 
-<table>
+<table width="80%" height="25%">
   <tr>
     <td>
        <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
@@ -49,7 +49,7 @@
   </tr>
 </table>
 
-<table>
+<table width="80%" height="25%">
   <tr>
     <td>
        <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">
@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-<table>
+<table width="80%" height="25%">
   <tr>
     <td>
         <a href="https://github.com/Sunita-Shakuniya/DesignSphere" target="_blank">
@@ -77,6 +77,7 @@
   </tr>
 </table>
 
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sunitashakuniya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sunitashakuniya/" height="30" width="40" /></a>
