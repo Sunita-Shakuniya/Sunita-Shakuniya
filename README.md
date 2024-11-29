@@ -40,7 +40,7 @@
   <tr>
     <td width= "45%" height = "50" align="center" >
        <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
-    <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Untitled%20design%20(1).png?raw=true" alt="E-Commerce App" width="90%" >
+    <img src="https://github.com/Sunita-Shakuniya/data/blob/main/P%20(1).png?raw=true" alt="E-Commerce App" >
   </a>
       </tr>
   <tr>
