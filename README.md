@@ -22,7 +22,7 @@
   <table width="80%" >
   <tr>
     <td width= "45%" align="center" >
-      <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
+      <a href="https://github.com/Sunita-Shakuniya/data/blob/main/P.png?raw=true" target="_blank">
         <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-28%20233301.png?raw=true" alt="Visualization Tool" width="90%">
       </a>
     </td>
