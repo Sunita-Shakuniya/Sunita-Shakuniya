@@ -23,12 +23,12 @@
 
   <table width="70%" >
   <tr>
-    <td width= "45%" height = "50" align="center" margin="5%">
+    <td width= "45%" height = "50" align="center" style="margin: 5%;">
       <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
         <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-28%20233301.png?raw=true" alt="Visualization Tool" width="90%"  margin= "3">
       </a>
     </td>
-    <td width= "55%" height = "50">
+    <td width= "55%" height = "50" style="padding-left: 10px;">
       <h4>Interactive Data Visualization Tool</h4>
       <p>Built using Django to create dynamic, user-interactive data dashboards.</p>
     </td>
