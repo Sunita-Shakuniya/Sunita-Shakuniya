@@ -24,44 +24,58 @@
   <table>
   <tr>
     <td>
-      <h4>Interactive Data Visualization Tool</h4>
-      <p>Built using Django to create dynamic, user-interactive data dashboards.</p>
-    </td>
-    <td>
       <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
         <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-28%20233301.png?raw=true" alt="Visualization Tool" width="300">
       </a>
     </td>
+    <td>
+      <h4>Interactive Data Visualization Tool</h4>
+      <p>Built using Django to create dynamic, user-interactive data dashboards.</p>
+    </td>
   </tr>
 </table>
 
-  <table>
+<table>
   <tr>
     <td>
-      <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
+       <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Untitled%20design%20(1).png?raw=true" alt="E-Commerce App" width="45%">
   </a>
+    </td>
+    <td>         
   <h4>E-Commerce Product Comparison App</h4>
   <p>React.js application comparing products across multiple platforms using public APIs.</p>
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td>
-      <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">
+       <a href="https://github.com/Sunita-Shakuniya/Extractify_Flask_app" target="_blank">
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20001113.png?raw=true" alt="OCR Tool" width="45%">
   </a>
-  <h4>OCR and Translation Tool with Audio Conversion</h4>
+    </td>
+    <td>         
+   <h4>OCR and Translation Tool with Audio Conversion</h4>
   <p>Flask-based tool allows users to upload images, extract text, translate, and convert the translated text into speech.</p>
     </td>
   </tr>
 </table>
 
-  <a href="https://github.com/Sunita-Shakuniya/DesignSphere" target="_blank">
+<table>
+  <tr>
+    <td>
+        <a href="https://github.com/Sunita-Shakuniya/DesignSphere" target="_blank">
     <img src="https://github.com/Sunita-Shakuniya/data/blob/main/Screenshot%202024-11-29%20002022.png?raw=true" alt="Interior Design Website" width="45%">
   </a>
-  <h4>Interior Design Website</h4>
+    </td>
+    <td>         
+    <h4>Interior Design Website</h4>
   <p>Basic portfolio Website HTML/CSS and JavaScript</p>
-
-</div>
-
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
