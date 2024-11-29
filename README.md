@@ -40,14 +40,14 @@
   <tr>
     <td width= "45%" align="center" >
        <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">
-    <img src="https://github.com/Sunita-Shakuniya/data/blob/main/P%20(1).png?raw=true" alt="E-Commerce App" >
-  </a>
-      </tr>
-  <tr>
+        <img src="https://github.com/Sunita-Shakuniya/data/blob/main/P%20(1).png?raw=true" alt="E-Commerce App" >
+      </a>
     </td>
+  </tr>
+  <tr>
     <td width= "55%">         
-  <h4><strong>• Title:</strong> E-Commerce Product Comparison App</h4>   
-  <p><strong>• Description:</strong> React.js application comparing products across multiple platforms using public APIs.</p>
+      <h4><strong>• Title:</strong> E-Commerce Product Comparison App</h4>   
+      <p><strong>• Description:</strong> React.js application comparing products across multiple platforms using public APIs.</p>
       <p><strong>• View Project Code:</strong> <a href="https://github.com/Sunita-Shakuniya/Ecommerce-Application" target="_blank">Click Here</a></p>  
     </td>
   </tr>
