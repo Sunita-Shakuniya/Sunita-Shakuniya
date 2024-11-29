@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on  **AI_Agent** (SerpApi, chatGPT Api, Flask)
 ###
-<img align="right" height= "150" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-50.gif?raw=true"/>
+<img align="right" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-50.gif?raw=true"/>
 
 ###
 - 🌱 I’m currently learning **Flask, Django**
