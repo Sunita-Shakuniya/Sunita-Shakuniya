@@ -1,15 +1,14 @@
 ## <h3 align="center">Leetcode</h3>
-<div align ="conter">
+
 <img align="left" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-50.gif?raw=true"/>
 
 <img align="" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-11.gif?raw=true"/>
 
-</div>
 ## <h3 align="center">Projects</h3>
  
 <div align="center">
 
-  <table width="40%" >
+  <table width="40%" align ="left">
   <tr>
     <td width= "40%" align="center" >
       <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
