@@ -1,10 +1,10 @@
 ## <h3 align="center">Leetcode</h3>
-
+<div align ="conter">
 <img align="left" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-50.gif?raw=true"/>
 
 <img align="" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-11.gif?raw=true"/>
 
-
+</div>
 ## <h3 align="center">Projects</h3>
  
 <div align="center">
