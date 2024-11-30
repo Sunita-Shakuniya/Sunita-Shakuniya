@@ -1,6 +1,6 @@
 ## <h3 align="center">Leetcode</h3>
 
-<img align="left" height= "220" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-50.gif?raw=true"/>
+<img align="left" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-50.gif?raw=true"/>
 
 <img align="" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-11.gif?raw=true"/>
 
