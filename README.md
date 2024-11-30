@@ -8,7 +8,7 @@
  
 <div align="center">
 
-  <table width="40%" align ="left">
+  <table width="40%" >
   <tr>
     <td width= "40%" align="center" >
       <a href="https://github.com/Sunita-Shakuniya/data-prep-visualize" target="_blank">
