@@ -2,7 +2,7 @@
 
 <img align="left" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-50.gif?raw=true"/>
 
-<img align="" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-11.gif?raw=true"/>
+<img align="" height= "180" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-11.gif?raw=true"/>
 
 ## <h3 align="center">Projects</h3>
  
