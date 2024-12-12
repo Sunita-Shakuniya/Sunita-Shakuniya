@@ -3,7 +3,13 @@
 <img align="left" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-50.gif?raw=true"/>
 
 <img align="" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-11.gif?raw=true"/>
-
+## <h3 align="center">AWS</h3>
+<a href="https://www.credly.com/badges/70e11234-41b2-4a89-a27c-2c77da9f1d32" target="_blank">
+<img align="left" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/aws%20machine.png?raw=true"/>
+</a>
+<a href ="https://www.credly.com/badges/5a6c6a59-6d4f-47d0-afca-4fafbfe3344a" target ="_blank">
+<img align="" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/aws%20machine1.png?raw=true"/>
+</a>
 ## <h3 align="center">Projects</h3>
  
 <div align="center">
