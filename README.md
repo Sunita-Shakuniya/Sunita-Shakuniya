@@ -9,10 +9,10 @@
 <img align="left" height= "200" src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"/>
 </a>
 <a href ="https://www.credly.com/badges/5a6c6a59-6d4f-47d0-afca-4fafbfe3344a" target ="_blank">
-<img align="" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/aws%20machine(1).png?raw=true"/>
+<img align="" height= "200" src="https://images.credly.com/size/680x680/images/254b883a-44a3-4cec-b6f2-946a80522b39/image.png"/>
 </a>
 <a href ="https://www.credly.com/badges/511022c9-28db-44c6-ae15-de2244e29229" target ="_blank">
-<img align="" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/image.png?raw=true"/>
+<img align="" height= "200" src="https://images.credly.com/size/680x680/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png"/>
 </a>
 
 
