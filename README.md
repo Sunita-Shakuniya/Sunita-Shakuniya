@@ -11,6 +11,10 @@
 <a href ="https://www.credly.com/badges/5a6c6a59-6d4f-47d0-afca-4fafbfe3344a" target ="_blank">
 <img align="" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/aws%20machine(1).png?raw=true"/>
 </a>
+<a href ="https://www.credly.com/badges/511022c9-28db-44c6-ae15-de2244e29229" target ="_blank">
+<img align="" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/image.png?raw=true"/>
+</a>
+
 
 ## <h3 align="center">Projects</h3>
  
