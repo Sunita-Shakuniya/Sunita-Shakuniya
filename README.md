@@ -1,10 +1,10 @@
 ## <h3 align="center">Leetcode</h3>
 
-<img align="left" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-50.gif?raw=true"/>
+<img align="left" height= "150" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-50.gif?raw=true"/>
 
-<img align="" height= "200" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-11.gif?raw=true"/>
+<img align="" height= "150" src="https://github.com/Sunita-Shakuniya/data/blob/main/2024-11.gif?raw=true"/>
 
-<img align="" height= "200" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif"/>
+<img align="" height= "150" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif"/>
 
 ## <h3 align="center">AWS Academy Graduate - Badges</h3>
 
