@@ -1,9 +1,10 @@
 ## <h3 align="center">Leetcode</h3>
 
 <a>
-<img align="left" height= "150" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif"/>
-<img align="centre" height= "150" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif"/>
-<img align="" height= "150" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif"/>
+
+<img align="left" height= "100" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif"/>
+<img align="centre" height= "150" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif"/>
+<img align="" height= "100" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif"/>
 </a>
 
 ## <h3 align="center">AWS Academy Graduate - Badges</h3>
