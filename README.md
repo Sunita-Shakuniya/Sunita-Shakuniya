@@ -2,9 +2,9 @@
 
 <img align="left" height= "150" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif"/>
 
-<img align="" height= "150" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif"/>
+<img align="centre" height= "150" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif"/>
 
-<img align="" height= "150" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif"/>
+<img align="right" height= "150" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif"/>
 
 ## <h3 align="center">AWS Academy Graduate - Badges</h3>
 
